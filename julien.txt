@@ -1,8 +1,6 @@
-██████   ██████  ██████  ████████ ███████  ██████  ██      ██  ██████       ██████  ███████ 
-██   ██ ██    ██ ██   ██    ██    ██      ██    ██ ██      ██ ██    ██     ██    ██ ██      
-██████  ██    ██ ██████     ██    █████   ██    ██ ██      ██ ██    ██     ██    ██ ███████ 
-██      ██    ██ ██   ██    ██    ██      ██    ██ ██      ██ ██    ██     ██    ██      ██ 
-██       ██████  ██   ██    ██    ██       ██████  ███████ ██  ██████       ██████  ███████ 
+╔═╗┌─┐┬─┐┌┬┐┌─┐┌─┐┬  ┬┌─┐  ╔═╗╔═╗
+╠═╝│ │├┬┘ │ ├┤ │ ││  ││ │  ║ ║╚═╗
+╩  └─┘┴└─ ┴ └  └─┘┴─┘┴└─┘  ╚═╝╚═╝
 by MakethPanda (Julien Boudjedid)
 <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
