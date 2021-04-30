@@ -1,10 +1,10 @@
 ╔═╗┌─┐┬─┐┌┬┐┌─┐┌─┐┬  ┬┌─┐  ╔═╗╔═╗
 ╠═╝│ │├┬┘ │ ├┤ │ ││  ││ │  ║ ║╚═╗
-╩  └─┘┴└─ ┴ └  └─┘┴─┘┴└─┘  ╚═╝╚═╝
+╩ -└─┘┴└─ ┴ └  └─┘┴─┘┴└─┘  ╚═╝╚═╝
 by MakethPanda (Julien Boudjedid)
-<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Hi ! i'm a 16 year old french student hoping to work in cybersecurity !</p>
+<p>I made this small website to give some additional info about my various skills and an overall "portfolio" of what i know how to do. </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p> Here is a link to a graphical timeline: <a href="link"> timeline</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
