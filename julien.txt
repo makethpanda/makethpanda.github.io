@@ -1,6 +1,6 @@
-_____  ____ _____  _____  ____  ____  _     _  ____     ____   ____             
-| ()_)/ () \| () )|_   _|| ===|/ () \| |__ | |/ () \   / () \ (_ (_`            
-|_|   \____/|_|\_\  |_|  |__|  \____/|____||_|\____/   \____/.__)__)           
+_____  ____ _____  _____  ____  ____  _     _  ____     ____   ____<br>
+| ()_)/ () \| () )|_   _|| ===|/ () \| |__ | |/ () \   / () \ (_ (_`<br>
+|_|   \____/|_|\_\  |_|  |__|  \____/|____||_|\____/   \____/.__)__)<br>
 <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
