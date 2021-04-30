@@ -1,6 +1,6 @@
-╔═╗┌─┐┬─┐┌┬┐┌─┐┌─┐┬  ┬┌─┐  ╔═╗╔═╗
-╠═╝│ │├┬┘ │ ├┤ │ ││  ││ │  ║ ║╚═╗
-╩ -└─┘┴└─ ┴ └  └─┘┴─┘┴└─┘  ╚═╝╚═╝
+╔═╗┌─┐┬─┐┌┬┐┌─┐┌─┐┬  ┬┌─┐ -╔═╗╔═╗
+╠═╝│ │├┬┘ │ ├┤ │ ││  ││ │ -║ ║╚═╗
+╩ -└─┘┴└─ ┴ └ -└─┘┴─┘┴└─┘ -╚═╝╚═╝
 by MakethPanda (Julien Boudjedid)
 <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Hi ! i'm a 16 year old french student hoping to work in cybersecurity !</p>
 <p>I made this small website to give some additional info about my various skills and an overall "portfolio" of what i know how to do. </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
