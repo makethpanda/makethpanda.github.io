@@ -99,7 +99,7 @@ var Typer = {
   Typer.file = 'OS.txt';
   Typer.init();
   
-  var timer = setInterval('t();', 30);
+  var timer = setInterval('t();', 50);
   function t() {
     Typer.addText({ keyCode: 123748 });
   
