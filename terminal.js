@@ -15,7 +15,7 @@ jQuery(function($, undefined) {
         $hello: function(b) {
             this.echo('hello '+ b + ' ! How are you today ?');
 
-        }
+        },
         $emailme: function() {
             this.echo('email me at this address:')
             this.echo('J.¤¤¤¤¤¤¤¤@gmail.com')
