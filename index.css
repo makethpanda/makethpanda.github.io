@@ -1,0 +1,49 @@
+.home-main-section {
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    flex-grow: 1;
+    width: 100%;
+    height: auto;
+    }
+    
+    .home-main-section .call-to-action {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10rem;
+    align-self: center;
+    width: 100%;
+    height: auto;
+    font-size: 1vw;
+    }
+    
+    .home-main-section .arrow-left {
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        justify-content: left;
+        margin: 4rem;
+        align-self: center;
+        width: 90%;
+        height: auto;
+        }
+    
+        .home-main-section .right-arrow {
+            display: flex;
+            flex-direction: column;
+            align-items: left;
+            justify-content: left;
+            margin: 4rem;
+            align-self: center;
+            width: 90%;
+            height: auto;
+            }
+    
+    .reeee {
+        height: 60%; 
+        width: auto; 
+        max-width: 300px; 
+        max-height: 300px;
+    }

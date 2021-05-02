@@ -1,8 +1,11 @@
 jQuery(function($, undefined) {
     $('#terminal').terminal({
-        hello: function(what) {
-            this.echo('Hello, ' + what +
-                      '. Wellcome to this terminal.');
+        $intro: function() {
+            this.echo('Welcome to the terminal, and welcome to my portfolio.');
+            this.echo('.');
+            this.echo('.');
+            this.echo('.');
+            this.echo('type "$help" to get started !');
         },
         $help: function() {
             this.echo('help, hello(arg), work, cool, fun, troll');
