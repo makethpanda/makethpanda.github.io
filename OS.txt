@@ -33,14 +33,14 @@ take me back <a href="index.html">home</a>
 |
 |
 |
-|-Year 2014: I start becoming more proficient in Scratch, I try <a href="">Python</a> but hate it.
+|-Year 2014: I start becoming more proficient in Scratch, I try <a href="python.org">Python</a> but hate it.
 |
 |
 |
 |
 |
 |
-|-Year 2015: While living in australia I become interested in hacking and taking websites down (i want to make it my profession), i <a href="">root</a> my phone and use tools (on our private network, legally) such as <a href="">csploit</a> or <a href="">lucky patcher</a> from my phone using guides I get from french "hacking" magasines. I am your typical "skid".
+|-Year 2015: While living in australia I become interested in hacking and taking websites down (i want to make it my profession), i <a href="https://fr.wikipedia.org/wiki/Root_d%27Android">root</a> my phone and use tools (on our private network, legally) such as <a href="">csploit</a> or <a href="">lucky patcher</a> from my phone using guides I get from french "hacking" magasines. I am your typical "skid".
 |
 |
 |
@@ -60,7 +60,7 @@ take me back <a href="index.html">home</a>
 |
 |
 |
-|-Year 2020: I frequently do <a href="">RootMe</a> and <a href="">TryHackMe</a> challenges, I am not much good but some practice will make me improve.
+|-Year 2020: I frequently do <a href="root-me.org">RootMe</a> and <a href="TryHackMe">TryHackMe</a> challenges, I am not much good but some practice will make me improve.
 |
 |
 |
