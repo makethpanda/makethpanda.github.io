@@ -1,4 +1,4 @@
-Hi ! this is a timeline of my coding and hacking "career". :)
+<h1>Hi ! this is a timeline of my coding and hacking "career". :)</h1>
 |
 |
 |-May 2004: Julien is born.
@@ -31,4 +31,4 @@ Hi ! this is a timeline of my coding and hacking "career". :)
 |
 |
 |
-\/
+\/ 
