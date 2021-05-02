@@ -9,22 +9,61 @@
 |
 |
 |
+|
+|
+|
 |-Year 2012: I start developping an obscession with video games and the internet.
+|
+|
+|
+|
+|
+|
+|
+|
+|
 |-Summer 2013: I do several week long workshops on making video games:
  |
 --I discover <a href="Scratch.mit.edu">Scratch</a>
 |
+|
+|
+|
+|
+|
+|
 |-Year 2014: I start becoming more proficient in Scratch, I try <a href="">Python</a> but hate it.
+|
+|
+|
+|
+|
 |
 |-Year 2015: While living in australia I become interested in hacking and taking websites down (i want to make it my profession), i <a href="">root</a> my phone and use tools (on our private network, legally) such as <a href="">csploit</a> or <a href="">lucky patcher</a> from my phone using guides I get from french "hacking" magasines. I am your typical "skid".
 |
 |
+|
+|
+|
+|
 |-Year 2018: I have become knowledgeable in <a href="">C#</a>, <a href="">HTML</a>, <a href="">CSS</a> and <a href="">many python modules</a>.
+|
+|
+|
+|
 |
 |-Year 2019: I start looking into <a href="">Shell</a> and Linux machines, I install <a href="">Kali Linux</a> on my computer.
 |
 |
+|
+|
+|
+|
 |-Year 2020: I frequently do <a href="">RootMe</a> and <a href="">TryHackMe</a> challenges, I am not much good but some practice will make me improve.
+|
+|
+|
+|
 |
 |-Year 2021: This is the first year of my BAC exams, Hacking and Coding is a lot harder as I have less time, However I do participate in my first <a href="">CTF Challenge</a>
 |
